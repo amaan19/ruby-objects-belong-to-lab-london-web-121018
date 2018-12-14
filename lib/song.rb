@@ -8,4 +8,3 @@ attr_accessor :title, :artist
   end
 
 end
- binding.pry
